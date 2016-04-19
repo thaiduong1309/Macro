@@ -43,7 +43,7 @@ Sub Columns()
 '
 ' Columns Macro
 '
-'
+devin stoen was here 
 If ActiveWindow.View.SplitSpecial <> wdPaneNone Then
 ActiveWindow.Panes(2).Close
 End If
